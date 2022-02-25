@@ -43,8 +43,13 @@ Direct message:
 
 **General requirements**
 Application must use the console for input and output;
+
 User submits commands to the application:
+
 posting: <user name> -> <message>
+  
 reading: <user name>
+  
 following: <user name> follows <another user>
+  
 wall: <user name> wall

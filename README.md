@@ -1,9 +1,9 @@
 # SocialNetworkKata
 Posting: Alice can publish messages to a personal timeline
 
-> Alice -> I love the weather today
-> Bob -> Damn! We lost!
-> Bob -> Good game though.
+>> Alice -> I love the weather today
+>> Bob -> Damn! We lost!
+>> Bob -> Good game though.
 
 Reading: Bob can view Alice’s timeline
 

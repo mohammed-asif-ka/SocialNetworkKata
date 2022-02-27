@@ -42,14 +42,9 @@ Direct message:
 > Alice send : I don't have any particular plan(1 minute ago)
 
 **General requirements**
-Application must use the console for input and output;
-
-User submits commands to the application:
-
-posting: <user name> -> <message>
-  
-reading: <user name>
-  
-following: <user name> follows <another user>
-  
-wall: <user name> wall
+//Application must use the console for input and output;
+//User submits commands to the application:
+//posting: <user name> -> <message>
+//reading: <user name>
+//following: <user name> follows <another user>
+//wall: <user name> wall
